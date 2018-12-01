@@ -1,4 +1,4 @@
-You can buy this shield from [our website here](https://www.eastbaysource.com)
+You can buy this kit from [our website here](https://www.eastbaysource.com)
 
     X,Y,Z motors/encoders (3)
 
